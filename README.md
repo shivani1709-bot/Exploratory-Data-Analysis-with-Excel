@@ -19,7 +19,7 @@ Below is a curated list of all projects included in this repository, each with i
 
 ---
 
-### ### **1️⃣ Australian Census Income & Work Data Analysis**
+### **1️⃣ Australian Census Income & Work Data Analysis**
 📂 `projects/australian-income-insights`  
 Explores income distribution, demographic factors, and socio-economic patterns in Australian census data using Excel & Power Query.  
 Includes dashboards, binned labels, and insight-driven PPT presentation.
