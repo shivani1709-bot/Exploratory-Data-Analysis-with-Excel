@@ -1,0 +1,41 @@
+[
+  {
+    "title": "ODI Cricket Analytics (Excel + Python)",
+    "year": 2025,
+    "tags": [
+      "excel",
+      "analytics",
+      "cricket",
+      "visualization"
+    ],
+    "summary": "Explored ODI cricket data (2002\u20132023): player performance, strike rates, economy, and match-level insights via pivot tables and charts.",
+    "link": "",
+    "repo": ""
+  },
+  {
+    "title": "Australian Income Insights (Census Data)",
+    "year": 2025,
+    "tags": [
+      "excel",
+      "statistics",
+      "charts",
+      "data-cleaning"
+    ],
+    "summary": "Cleaned, binned, and visualized income distributions; built slides and automated charts for an academic presentation.",
+    "link": "",
+    "repo": ""
+  },
+  {
+    "title": "REST APIs with FastAPI",
+    "year": 2024,
+    "tags": [
+      "python",
+      "fastapi",
+      "docker",
+      "rest"
+    ],
+    "summary": "Designed and documented REST APIs with FastAPI; containerized services and wrote tests for key endpoints.",
+    "link": "",
+    "repo": ""
+  }
+]
